@@ -11,6 +11,7 @@ public class EvenOdd {
 
         Sol obj = new Sol();
         obj.checkNum(n);
+        in.close();
     }
 }
 
