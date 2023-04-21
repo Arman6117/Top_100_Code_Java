@@ -43,6 +43,7 @@ class Sol
          {
             System.out.println(i);
          }
+         
 
        }
     }
