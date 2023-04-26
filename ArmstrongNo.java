@@ -29,6 +29,7 @@ class Sol
         {
             temp = no % 10;
             sum = sum + (int)Math.pow(temp, cnt);
+            no /= 10;
         }
         if(sum == A)
         {
